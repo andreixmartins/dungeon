@@ -14,8 +14,8 @@ The knight has a certain amount of health. If at any point his health drops to 0
 
 ## Running tests 
 
-```ts 
-> npm test
+```shell 
+npm test
 ```
 
 - /tests/calculateMinimumHP.test.ts
@@ -24,5 +24,6 @@ The knight has a certain amount of health. If at any point his health drops to 0
 
 If you have issues with new version of npm run this command;
 
-> npm config fix
-
+```shell 
+npm config fix
+```
